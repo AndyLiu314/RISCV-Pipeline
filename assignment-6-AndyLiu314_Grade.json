@@ -1,0 +1,15 @@
+{
+  "factorial": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "fibonacci": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "jtable": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "userid": "GithubID:assignment-6-AndyLiu314"
+}
